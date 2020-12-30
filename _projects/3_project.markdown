@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: /assets/img/7.jpg
-redirect: https://unsplash.com
+title: Emerging platforms
+description:  
+img: /assets/img/archrev.jpg
+redirect: https://jcallene.github.com/archrev
 importance: 3
 ---
 

@@ -1,8 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
+title: HARDI
+description: High Performance Assured Resilient Dependable Infrastructures
+img: /assets/img/hardi2.png
+redirect: https://jcallene.github/hardi
+
 importance: 1
 ---
 

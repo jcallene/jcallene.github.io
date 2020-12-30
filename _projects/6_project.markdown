@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: Computing for developing countries
+description: 
+img: /assets/img/development.png
+redirect: https://jcallene.github.com/developmentCountries
 importance: 4
 ---
 

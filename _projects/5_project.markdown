@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: /assets/img/1.jpg
+title: Perch
+description:  power line-based sensing platforms
+img: /assets/img/perchv1.png
+redirect: http://perchsensing.com
 importance: 3
 ---
 

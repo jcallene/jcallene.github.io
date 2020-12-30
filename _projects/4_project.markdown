@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Algorithm-based Fault Tolerance
+description: 
+img: /assets/img/algorithm.png
+redirect: https://jcallene.github.com/abft
 importance: 3
 ---
 

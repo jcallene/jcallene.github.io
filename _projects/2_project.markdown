@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: /assets/img/3.jpg
+title: OTTER
+description: teaching and research ASIC system
+img: /assets/img/otterv1.jpg
+redirect: https://jcallene.github/otter
 importance: 2
 ---
 
