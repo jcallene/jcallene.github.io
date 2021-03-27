@@ -1,17 +1,9 @@
 --
 --
 
-
-@INPROCEEDINGS{isabelfang,
-  title={Heterogeneous System Model for Security in E-Health Applications},
-  author={Isabel Jellen and  Joseph Callenes-Sloan and Dongfeng Fang},
-  booktitle={Workshop on IOT Enabling Technologies in Healthcare (IOT-Health) - IEEE International Conference on Communications (ICC)},
-  year={2021}
-}
 @INPROCEEDINGS{8050698,
-author={Jiacong {He} and Joseph {Callenes-Sloan}},
-  booktitle = {{IEEE} International Symposium on Circuits and Systems, {ISCAS},
-               Baltimore, MD, USA, May 28-31, 2017},
+author={J. {He} and J. {Callenes-Sloan}},
+booktitle={2017 IEEE International Symposium on Circuits and Systems (ISCAS)},
 title={TCache: An energy-efficient DRAM cache design},
 year={2017},
 volume={},
@@ -22,8 +14,8 @@ keywords={cache storage;DRAM chips;power aware computing;data block;WayMap;Level
 doi={10.1109/ISCAS.2017.8050698},
 ISSN={2379-447X},
 month={May},}
-INPROCEEDINGS{8656956,
-author={Sonia {Mannan} and Joseph {Callenes-Sloan}},
+@INPROCEEDINGS{8656956,
+author={S. {Mannan} and J. {Callenes-Sloan}},
 booktitle={2018 IEEE International Smart Cities Conference (ISC2)},
 title={Treety: A Data-driven Approach to Urban Canopy Development},
 year={2018},
@@ -62,8 +54,7 @@ doi={10.1109/ICECS.2016.7841304},
 ISSN={},
 month={Dec},}
 @INPROCEEDINGS{8091258,
-author    = {Jiacong He and
-               Joseph Callenes{-}Sloan},
+author={J. {He} and J. {Callenes-Sloan}},
 booktitle={2017 26th International Conference on Parallel Architectures and Compilation Techniques (PACT)},
 title={Architecting a Novel Hybrid Cache with Low Energy},
 year={2017},
@@ -77,8 +68,7 @@ ISSN={},
 month={Sep.},}
 @INPROCEEDINGS{8357262,
 author={J. {He} and J. {Callenes-Sloan}},
-booktitle = {19th International Symposium on Quality Electronic Design, {ISQED}
-               2018, Santa Clara, CA, USA, March 13-14, 2018},
+booktitle={2018 19th International Symposium on Quality Electronic Design (ISQED)},
 title={Optimizing energy in a DRAM based hybrid cache},
 year={2018},
 volume={},
@@ -103,7 +93,7 @@ doi={10.1109/PRDC.2014.20},
 ISSN={},
 month={Nov},}
 @INPROCEEDINGS{7371866,
-author={Farah Naz {Taher} and Joseph {Callenes-Sloan}},
+author={F. N. {Taher} and J. {Callenes-Sloan}},
 booktitle={2015 IEEE 21st Pacific Rim International Symposium on Dependable Computing (PRDC)},
 title={Hardware Fault Compensation Using Discriminative Learning},
 year={2015},
@@ -116,7 +106,7 @@ doi={10.1109/PRDC.2015.44},
 ISSN={},
 month={Nov},}
 @INPROCEEDINGS{8639033,
-author={Zhu, Zhiqi and Callenes-Sloan, Joseph and Schafer, Benjamin Carrion},
+author={Z. {Zhu} and J. {Callenes-Sloan} and B. {Carrion Schafer}},
 booktitle={2018 IEEE 23rd Pacific Rim International Symposium on Dependable Computing (PRDC)},
 title={Control Flow Checking Optimization Based on Regular Patterns Analysis},
 year={2018},
@@ -129,7 +119,7 @@ doi={10.1109/PRDC.2018.00036},
 ISSN={2473-3105},
 month={Dec},}
 @INPROCEEDINGS{8465859,
-author={Farah Naz {Taher} and Joseph {Callenes-Sloan} and Benjamin Carrion {Schafer}},
+author={F. N. {Taher} and J. {Callenes-Sloan} and B. C. {Schafer}},
 booktitle={2018 55th ACM/ESDA/IEEE Design Automation Conference (DAC)},
 title={A Machine Learning based Hard Fault Recuperation Model for Approximate Hardware Accelerators},
 year={2018},
@@ -234,6 +224,125 @@ ISSN={2472-8152},
 month={Feb},}
 
 
+@inproceedings{DBLP:conf/dac/TaherCS18,
+  author    = {Farah Naz Taher and
+               Joseph Callenes{-}Sloan and
+               Benjamin Carri{\'{o}}n Sch{\"{a}}fer},
+  title     = {A machine learning based hard fault recuperation model for approximate
+               hardware accelerators},
+  booktitle = {Proceedings of the 55th Annual Design Automation Conference, {DAC}
+               2018, San Francisco, CA, USA, June 24-29, 2018},
+  pages     = {80:1--80:6},
+  publisher = {{ACM}},
+  year      = {2018},
+  url       = {https://doi.org/10.1145/3195970.3195974},
+  doi       = {10.1145/3195970.3195974},
+  timestamp = {Wed, 16 Oct 2019 14:14:54 +0200},
+  biburl    = {https://dblp.org/rec/conf/dac/TaherCS18.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+@inproceedings{DBLP:conf/isc2/MannanC18,
+  author    = {Sonia Mannan and
+               Joseph Callenes{-}Sloan},
+  title     = {Treety: {A} Data-driven Approach to Urban Canopy Development},
+  booktitle = {{IEEE} International Smart Cities Conference, {ISC2} 2018, Kansas
+               City, MO, USA, September 16-19, 2018},
+  pages     = {1--7},
+  publisher = {{IEEE}},
+  year      = {2018},
+  url       = {https://doi.org/10.1109/ISC2.2018.8656956},
+  doi       = {10.1109/ISC2.2018.8656956},
+  timestamp = {Wed, 16 Oct 2019 14:14:56 +0200},
+  biburl    = {https://dblp.org/rec/conf/isc2/MannanC18.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/isqed/HeC18,
+  author    = {Jiacong He and
+               Joseph Callenes{-}Sloan},
+  title     = {Optimizing energy in a {DRAM} based hybrid cache},
+  booktitle = {19th International Symposium on Quality Electronic Design, {ISQED}
+               2018, Santa Clara, CA, USA, March 13-14, 2018},
+  pages     = {37--42},
+  publisher = {{IEEE}},
+  year      = {2018},
+  url       = {https://doi.org/10.1109/ISQED.2018.8357262},
+  doi       = {10.1109/ISQED.2018.8357262},
+  timestamp = {Wed, 16 Oct 2019 14:14:55 +0200},
+  biburl    = {https://dblp.org/rec/conf/isqed/HeC18.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+@inproceedings{DBLP:conf/prdc/ZhuCS18,
+  author    = {Zhiqi Zhu and
+               Joseph Callenes{-}Sloan and
+               Benjamin Carri{\'{o}}n Sch{\"{a}}fer},
+  title     = {Control Flow Checking Optimization Based on Regular Patterns Analysis},
+  booktitle = {23rd {IEEE} Pacific Rim International Symposium on Dependable Computing,
+               {PRDC} 2018, Taipei, Taiwan, December 4-7, 2018},
+  pages     = {203--212},
+  publisher = {{IEEE}},
+  year      = {2018},
+  url       = {https://doi.org/10.1109/PRDC.2018.00036},
+  doi       = {10.1109/PRDC.2018.00036},
+  timestamp = {Wed, 16 Oct 2019 14:14:56 +0200},
+  biburl    = {https://dblp.org/rec/conf/prdc/ZhuCS18.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/tcas/HeC17,
+  author    = {Jiacong He and
+               Joseph Callenes{-}Sloan},
+  title     = {A Novel Architecture of Large Hybrid Cache With Reduced Energy},
+  journal   = {{IEEE} Trans. on Circuits and Systems},
+  volume    = {64-I},
+  number    = {12},
+  pages     = {3092--3102},
+  year      = {2017},
+  url       = {https://doi.org/10.1109/TCSI.2017.2719000},
+  doi       = {10.1109/TCSI.2017.2719000},
+  timestamp = {Wed, 16 Jan 2019 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/tcas/HeC17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/IEEEpact/HeC17,
+  author    = {Jiacong He and
+               Joseph Callenes{-}Sloan},
+  title     = {Architecting a Novel Hybrid Cache with Low Energy},
+  booktitle = {26th International Conference on Parallel Architectures and Compilation
+               Techniques, {PACT} 2017, Portland, OR, USA, September 9-13, 2017},
+  pages     = {370},
+  publisher = {{IEEE} Computer Society},
+  year      = {2017},
+  url       = {https://doi.org/10.1109/PACT.2017.47},
+  doi       = {10.1109/PACT.2017.47},
+  timestamp = {Wed, 16 Oct 2019 14:14:52 +0200},
+  biburl    = {https://dblp.org/rec/conf/IEEEpact/HeC17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+
+@inproceedings{DBLP:conf/iscas/HeC17,
+  author    = {Jiacong He and
+               Joseph Callenes{-}Sloan},
+  title     = {TCache: An energy-efficient {DRAM} cache design},
+  booktitle = {{IEEE} International Symposium on Circuits and Systems, {ISCAS} 2017,
+               Baltimore, MD, USA, May 28-31, 2017},
+  pages     = {1--4},
+  publisher = {{IEEE}},
+  year      = {2017},
+  url       = {https://doi.org/10.1109/ISCAS.2017.8050698},
+  doi       = {10.1109/ISCAS.2017.8050698},
+  timestamp = {Wed, 16 Oct 2019 14:14:49 +0200},
+  biburl    = {https://dblp.org/rec/conf/iscas/HeC17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
 
 @inproceedings{DBLP:conf/middleware/HeC17,
   author    = {Jiacong He and
@@ -272,6 +381,23 @@ month={Feb},}
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 
+@inproceedings{DBLP:conf/date/ZhuC16,
+  author    = {Zhiqi Zhu and
+               Joseph Callenes{-}Sloan},
+  editor    = {Luca Fanucci and
+               J{\"{u}}rgen Teich},
+  title     = {Towards low overhead control flow checking using regular structured
+               control},
+  booktitle = {2016 Design, Automation {\&} Test in Europe Conference {\&} Exhibition,
+               {DATE} 2016, Dresden, Germany, March 14-18, 2016},
+  pages     = {826--829},
+  publisher = {{IEEE}},
+  year      = {2016},
+  url       = {http://ieeexplore.ieee.org/document/7459421/},
+  timestamp = {Wed, 16 Oct 2019 14:14:53 +0200},
+  biburl    = {https://dblp.org/rec/conf/date/ZhuC16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
 
 @inproceedings{DBLP:conf/icecsys/HeC16,
   author    = {Jiacong He and
@@ -308,6 +434,21 @@ month={Feb},}
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 
+@inproceedings{DBLP:conf/prdc/Callenes-SloanM14,
+  author    = {Joseph Callenes{-}Sloan and
+               Hugh McNamara},
+  title     = {Algorithm Selection for Error Resilience in Scientific Computing},
+  booktitle = {20th {IEEE} Pacific Rim International Symposium on Dependable Computing,
+               {PRDC} 2014, Singapore, November 18-21, 2014},
+  pages     = {96--105},
+  publisher = {{IEEE} Computer Society},
+  year      = {2014},
+  url       = {https://doi.org/10.1109/PRDC.2014.20},
+  doi       = {10.1109/PRDC.2014.20},
+  timestamp = {Wed, 16 Oct 2019 14:14:56 +0200},
+  biburl    = {https://dblp.org/rec/conf/prdc/Callenes-SloanM14.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
 
 
 @inproceedings{sloan2010numerical,
@@ -391,6 +532,13 @@ month={Feb},}
   organization={IEEE}
 }
 
+@phdthesis{sloan2014algorithmic,
+  title={Algorithmic approaches to enhancing and exploiting application-level error tolerance},
+  author={Sloan, Joseph},
+  year={2014},
+  school={University of Illinois at Urbana-Champaign}
+}
+
 @article{sloan2011numerical,
   title={A numerical optimization-based methodology for application robustification: Transforming applications for error tolerance},
   author={Sloan, Joseph A},
@@ -408,12 +556,38 @@ month={Feb},}
   year={2006}
 }
 
+@inproceedings{callenes2014algorithm,
+  title={Algorithm selection for error resilience in scientific computing},
+  author={Callenes-Sloan, Joseph and McNamara, Hugh},
+  booktitle={2014 IEEE 20th Pacific Rim International Symposium on Dependable Computing},
+  pages={96--105},
+  year={2014},
+  organization={IEEE}
+}
+
+@inproceedings{taher2015hardware,
+  title={Hardware Fault Compensation Using Discriminative Learning},
+  author={Taher, Farah Naz and Callenes-Sloan, Joseph},
+  booktitle={2015 IEEE 21st Pacific Rim International Symposium on Dependable Computing (PRDC)},
+  pages={225--234},
+  year={2015},
+  organization={IEEE}
+}
 
 @inproceedings{shihab2016couture,
   title={Couture: Tailoring stt-mram for persistent main memory},
   author={Shihab, Mustafa and Zhang, Jie and Gao, Shuwen and Sloan, Josep and Jung, Myoungsoo},
   booktitle={4th Workshop on Interactions of NVM/Flash with Operating Systems and Workloads ($\{$INFLOW$\}$ 16)},
   year={2016}
+}
+
+@inproceedings{zhu2016towards,
+  title={Towards low overhead control flow checking using regular structured control},
+  author={Zhu, Zhiqi and Callenes-Sloan, Joseph},
+  booktitle={2016 Design, Automation \& Test in Europe Conference \& Exhibition (DATE)},
+  pages={826--829},
+  year={2016},
+  organization={IEEE}
 }
 
 @inproceedings{he2016reducing,
@@ -432,6 +606,13 @@ month={Feb},}
   year={2011}
 }
 
+@inproceedings{he2017designing,
+  title={Designing large hybrid cache for future HPC systems.},
+  author={He, Jiacong and Callenes-Sloan, Joseph},
+  booktitle={SpringSim (HPC)},
+  pages={9--1},
+  year={2017}
+}
 
 @article{he2017novel,
   title={A novel architecture of large hybrid cache with reduced energy},
@@ -444,6 +625,14 @@ month={Feb},}
   publisher={IEEE}
 }
 
+@inproceedings{he2017tcache,
+  title={Tcache: An energy-efficient dram cache design},
+  author={He, Jiacong and Callenes-Sloan, Joseph},
+  booktitle={2017 IEEE International Symposium on Circuits and Systems (ISCAS)},
+  pages={1--4},
+  year={2017},
+  organization={IEEE}
+}
 
 @inproceedings{he2017architecting,
   title={Architecting a novel hybrid cache with low energy},
@@ -454,6 +643,48 @@ month={Feb},}
   organization={IEEE}
 }
 
+@inproceedings{he2017software,
+  title={A software-defined hybrid cache with reduced energy: poster},
+  author={He, Jiacong and Callenes-Sloan, Joseph},
+  booktitle={Proceedings of the 18th ACM/IFIP/USENIX Middleware Conference: Posters and Demos},
+  pages={1--2},
+  year={2017}
+}
+
+@inproceedings{he2018optimizing,
+  title={Optimizing energy in a DRAM based hybrid cache},
+  author={He, Jiacong and Callenes-Sloan, Joseph},
+  booktitle={2018 19th International Symposium on Quality Electronic Design (ISQED)},
+  pages={37--42},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{taher2018machine,
+  title={A machine learning based hard fault recuperation model for approximate hardware accelerators},
+  author={Taher, Farah Naz and Callenes-Sloan, Joseph and Schafer, Benjamin Carrion},
+  booktitle={Proceedings of the 55th Annual Design Automation Conference},
+  pages={1--6},
+  year={2018}
+}
+
+@inproceedings{zhu2018control,
+  title={Control Flow Checking Optimization Based on Regular Patterns Analysis},
+  author={Zhu, Zhiqi and Callenes-Sloan, Joseph and Schafer, Benjamin Carrion},
+  booktitle={2018 IEEE 23rd Pacific Rim International Symposium on Dependable Computing (PRDC)},
+  pages={203--212},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{mannan2018treety,
+  title={Treety: A data-driven approach to urban canopy development},
+  author={Mannan, Sonia and Callenes-Sloan, Joseph},
+  booktitle={2018 IEEE International Smart Cities Conference (ISC2)},
+  pages={1--7},
+  year={2018},
+  organization={IEEE}
+}
 
 
 
@@ -471,6 +702,13 @@ month={Feb},}
   author={Benson, Bridget and Danowitz, Andrew and Hummel, Paul and Callenes-Sloan, Joseph}
 }
 
+
+
+@article{bensonincorporating,
+  title={Incorporating Diversity and Inclusion in the Computing Classroom},
+  author={Benson, Bridget and Callenes-Sloan, Joseph and Malekmohammadi, Amin}
+}
+
 @inproceedings{danowitz2020depth,
   title={In Depth Exploration of Added Course Expenses on Students of Various Socioeconomic Status},
   author={Danowitz, Andrew and Benson, Bridget and Hummel, Paul and Callenes, Joseph and McKell, K Clay},
@@ -479,19 +717,3 @@ month={Feb},}
   year={2020},
   organization={IEEE}
 }
-
-
-@INPROCEEDINGS{aseepeer348072,
-	author = {Bridget Benson, Joseph Callenes, and Amin Malekmohammadi},
-	title = {Incorporating Diversity and Inclusion in the Computing Classroom},
-	booktitle = {2020 ASEE Virtual Annual Conference Content Access},
-	year = {2020},
-	month = {June},
-	publisher = {ASEE Conferences}
-}
-
-
-
-
-
-
