@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Joseph  Callenes-Sloan | JCallenes - page 2</title>
+<title>Joseph  Callenes-Sloan</title>
 <meta name="description" content="Joseph Callenes Sloan is an Assistant Professor in the Electrical and Computer Engineering Department at Cal Poly San Luis Obispo with research and teaching interests in computer architecture and system-level design automation.">
 
 <!-- Open Graph -->
@@ -28,7 +28,7 @@
 <link rel="shortcut icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/blog/page/2/">
+<link rel="canonical" href="/">
 
 <!-- Theming-->
 
@@ -62,10 +62,6 @@
     <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top">
     <div class="container">
       
-      <a class="navbar-brand title font-weight-lighter" href="josephcallenes.com//">
-       <span class="">Joseph</span>   Callenes-Sloan
-      </a>
-      
       <!-- Navbar Toogle -->
       <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="sr-only">Toggle navigation</span>
@@ -76,9 +72,11 @@
       <div class="collapse navbar-collapse text-right" id="navbarNav">
         <ul class="navbar-nav ml-auto flex-nowrap">
           <!-- About -->
-          <li class="nav-item ">
+          <li class="nav-item active">
             <a class="nav-link" href="/">
               about
+              
+                <span class="sr-only">(current)</span>
               
             </a>
           </li>
@@ -157,56 +155,76 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2></h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">
+     <span class="">Joseph</span>   Callenes-Sloan
+    </h1>
+     <p class="desc">Assistant Professor. Electrical and Computer Engineering <a href="http://calpoly.edu">Cal Poly</a>.</p>
+  </header>
+
+  <article>
+    
+    <div class="profile float-right">
+      
+        <img class="img-fluid z-depth-1 rounded" src="/assets/img/prof_pic.jpg">
+      
+      
+        <div class="address">
+          <p>20A-314</p> <p>1 Grand Ave.</p> <p>San Luis Obispo, CA 93407</p> <p> 1-805-756-5607 </p>
+
+        </div>
+      
+    </div>
+    
+
+    <div class="clearfix">
+      I am an assistant professor in the Computer Engineering Department at California Polytechnic State University. I recieved my PhD and MS in Electrical and Computer Engineering at the University of Illinois in Urbana-Champaign.
+
+<!--, where I worked with Rakesh Kumar in the PASSAT research group. -->
 
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="//2015/10/20/comments.html">a post with comments</a></h3>
-        <p class="post-meta">October 20, 2015</p>
-        <p>an example of a blog post with comments</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="//2015/10/20/math.html">a post with math</a></h3>
-        <p class="post-meta">October 20, 2015</p>
-        <p>an example of a blog post with some math</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="//2015/07/15/code.html">a post with code</a></h3>
-        <p class="post-meta">July 15, 2015</p>
-        <p>an example of a blog post with some code</p>
-      </li>
-    
-  </ul>
+Research Interests: Fault Tolerant Systems, Scientific and High Performance Computing, Computer Architecture, Embedded Systems, Low-power Design and Architectures.
 
+<!-- My current research focuses on algorithmic techniques and architectures for tolerating and harnessing noise in stochastic systems, especially in the context of low energy processors. -->
+
+`I am looking for ambitious and motivated graduate/undergraduate students. If you are a student looking for an advisor or if you are someone interested in applying to Cal Poly for studies, email jcallene@calpoly.edu if you want to do research in computer architecture, scientific and high performance computing, low power design, fault tolerance and/or CAD/architecture interactions. `
+
+
+
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+
+
+<> Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+
+    </div>
+
+    
+
+    
+
+    
+    <div class="social">
+      <span class="contact-icon text-center">
+  <a href="mailto:%6A%63%61%6C%6C%65%6E%65@%63%61%6C%70%6F%6C%79.%65%64%75"><i class="fas fa-envelope"></i></a>
   
-<nav aria-label="Blog page naviation">
-  <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item ">
-      <a class="page-link" href="/blog/" tabindex="-1" aria-disabled="1">Newer</a>
-    </li>
-    
-      
-        <li class="page-item "><a class="page-link" href="/blog/index.html" title="JCallenes">1</a></li>
-      
-        <li class="page-item active"><a class="page-link" href="/blog/page/2/index.html" title="JCallenes - page 2">2</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/3/index.html" title="JCallenes - page 3">3</a></li>
-      
-    
-    <li class="page-item ">
-      <a class="page-link" href="/blog/page/3/">Older</a>
-    </li>
-  </ul>
-</nav>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</span>
 
-
+      <div class="contact-note">Email is the best way to reach me. Office hours are Mon: 2-3pm, Tues: 11am-12, Wed: 1-2pm.  Zoom by appointment: <a href="https://calpoly.zoom.us/j/6110453781">Zoom Link</a>
+</div>
+    </div>
+    
+  </article>
 
 </div>
 

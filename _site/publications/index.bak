@@ -167,17 +167,16 @@
   </header>
 
   <article>
-    <h4 id="current-research">Current Research</h4>
+    #### Current Research 
 
-<ul>
-  <li>Energy Efficient Computing</li>
-  <li>Embedded Systems</li>
-  <li>Stochastic Computing</li>
-  <li>Emerging workloads and platforms</li>
-  <li>Secure Infrastructures</li>
-</ul>
+- Energy Effecient Computing
+- Embedded Systems
+- Stochastic Computing
+- Emerging workloads and platforms
+- Secure Infrastructures
 
-<h4 id="publications">Publications</h4>
+
+#### Publications
 
 <div class="publications">
 
@@ -980,7 +979,7 @@
 
       <div class="periodical">
       
-        <em>In 2019 IEEE Power &amp; Energy Society Innovative Smart Grid Technologies Conference (ISGT)</em>
+        <em>In 2019 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT)</em>
       
       
         2019
@@ -2335,7 +2334,7 @@
     <!-- Hidden abstract block -->
     
     <div class="abstract hidden">
-      <p>With process scaling and the adoption of postCMOS technologies, permanent faults are becoming a fundamental problem. Circuits containing defects are either discarded (reducing yield) or partially disabled (reducing performance). In this paper, we propose a general approach using supervised and discriminative learning techniques to compensate for the effect of permanent faults on a circuit’s output. The insight for this approach is that many emerging systems and applications are able to tolerate some loss of quality in their computed results. Therefore, more scalable and lower overhead compensation techniques may be used to approximately correct for the effect of hardware faults on the circuit output. The proposed approach is shown to improve the output quality of complex accelerator and application-specific logic by 2-3 orders of magnitude while incurring &lt;;10% area overhead and &lt;;3% performance overhead.</p>
+      <p>With process scaling and the adoption of postCMOS technologies, permanent faults are becoming a fundamental problem. Circuits containing defects are either discarded (reducing yield) or partially disabled (reducing performance). In this paper, we propose a general approach using supervised and discriminative learning techniques to compensate for the effect of permanent faults on a circuit’s output. The insight for this approach is that many emerging systems and applications are able to tolerate some loss of quality in their computed results. Therefore, more scalable and lower overhead compensation techniques may be used to approximately correct for the effect of hardware faults on the circuit output. The proposed approach is shown to improve the output quality of complex accelerator and application-specific logic by 2-3 orders of magnitude while incurring <;10% area overhead and <;3% performance overhead.</p>
     </div>
     
   </div>
@@ -3095,7 +3094,7 @@
 
       <div class="periodical">
       
-        <em>In 2010 IEEE/IFIP International Conference on Dependable Systems &amp; Networks (DSN)</em>
+        <em>In 2010 IEEE/IFIP International Conference on Dependable Systems & Networks (DSN)</em>
       
       
         2010
